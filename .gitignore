@@ -1,0 +1,7 @@
+node_modules/
+.vscode/
+releases/
+*.vsix
+.codebuddy/
+package-lock.json
+favnm3ESD.jpeg

@@ -1,0 +1,13 @@
+.vscode/**
+.codebuddy/**
+scripts/**
+node_modules/**
+releases/**
+.gitignore
+.vscodeignore
+package-lock.json
+**/*.map
+**/*.ts
+**/*.js
+!themes/*.json
+favnm3ESD.jpeg

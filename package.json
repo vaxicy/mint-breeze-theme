@@ -1,0 +1,57 @@
+{
+  "name": "mint-breeze-theme",
+  "displayName": "Mint Breeze Theme",
+  "version": "1.0.0",
+  "description": "A fresh, soft and premium mint-green color theme for VS Code with light and dark modes for calm, focused creative coding.",
+  "publisher": "lilinhuang",
+  "author": {
+    "name": "Li Lin Huang",
+    "url": "https://github.com/vaxicy"
+  },
+  "icon": "./icon.png",
+  "galleryBanner": {
+    "color": "#172523",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "mint",
+    "mint breeze",
+    "theme",
+    "pastel",
+    "light theme",
+    "dark theme",
+    "green",
+    "calm",
+    "minimal",
+    "soft"
+  ],
+  "homepage": "https://github.com/vaxicy/mint-breeze-theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/mint-breeze-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vaxicy/mint-breeze-theme/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mint Breeze Light",
+        "uiTheme": "vs",
+        "path": "./themes/mint-breeze-light-color-theme.json"
+      },
+      {
+        "label": "Mint Breeze Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mint-breeze-dark-color-theme.json"
+      }
+    ]
+  }
+}
