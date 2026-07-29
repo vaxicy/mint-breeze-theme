@@ -1,7 +1,11 @@
-# Mint Breeze Theme
-
-[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/lilinhuang.mint-breeze-theme?label=Mint%20Breeze%20Theme&color=8FD8C8&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=lilinhuang.mint-breeze-theme)
-[![GitHub](https://img.shields.io/badge/GitHub-vaxicy%2Fmint--breeze--theme-62C7B5?logo=github)](https://github.com/vaxicy/mint-breeze-theme)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vaxicy/mint-breeze-theme/main/icon.png" alt="Mint Breeze Theme icon" width="72">
+  <h1 align="center">Mint Breeze Theme</h1>
+  <p>
+    <a href="https://marketplace.visualstudio.com/items?itemName=lilinhuang.mint-breeze-theme"><img src="https://img.shields.io/visual-studio-marketplace/v/lilinhuang.mint-breeze-theme?label=Mint%20Breeze%20Theme&color=8FD8C8&logo=visual-studio-code&logoColor=white" alt="Visual Studio Marketplace"></a>
+    <a href="https://github.com/vaxicy/mint-breeze-theme"><img src="https://img.shields.io/badge/GitHub-vaxicy%2Fmint--breeze--theme-62C7B5?logo=github" alt="GitHub"></a>
+  </p>
+</div>
 
 A fresh, soft and premium mint-green color theme for Visual Studio Code.
 
