@@ -2,6 +2,12 @@
 
 All notable changes to the **Mint Breeze Theme** extension will be documented in this file.
 
+## 1.0.1
+
+- Updated preview screenshots with wider tab spacing and corrected title/status bar text layout.
+- Replaced extension icon with a transparent mint-leaf mark.
+- Optimized README with side-by-side light/dark screenshots using raw GitHub image URLs.
+
 ## 1.0.0
 
 - Initial release of **Mint Breeze Theme**.
